@@ -25,7 +25,7 @@
         "internalName" : "SD_APEX_GEN_QRCODE",
         "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=79291:5",
-        "previewImage" : "https://github.com/sdembele/apex-gen-qrcode/blob/master/apex_gen_qrcode.gif?raw=true"
+        "previewImage" : "https://raw.githubusercontent.com/sdembele/apex-gen-qrcode/master/apex_gen_qrcode.gif"
       }
     }
   }
