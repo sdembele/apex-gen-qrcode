@@ -1,0 +1,32 @@
+{
+  "name" : "APEX Gen QRCODE",
+  "version" : "1.0",
+  "description" : "APEX plugin for generating a qrcode and obtaining the base64 version of it that can be saved in the database to be reused on reports sent by email and other",
+  "keywords" : ["item", "QRCODE", "Base64"],
+  "homepage" : "https://github.com/sdembele/apex-gen-qrcode",
+  "bugs" : {
+    "url" : "https://github.com/sdembele/apex-gen-qrcode/issues",
+    "email" : "dsouleman@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Souleman DEMBELE",
+    "email" : "dsouleman@gmail.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/sdembele/apex-gen-qrcode"
+  },
+ "oracle" : {
+    "versions": ["11.2.0.1", "12.1.0.1", "12.2.0.1"],
+    "apex": {
+      "versions": ["5.1.0", "5.1.1", "5.1.2", "5.1.3", "5.1.4", "18.1.0", "18.2.0", "19.1.0", "19.2.0", "20.1.0"],
+      "plugin" : {
+        "internalName" : "APEX Gen QRCODE",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=79291:5",
+        "previewImage" : "https://raw.githubusercontent.com/sdembele/APEX-Mask-Plugin/master/APEX-Mask-Plugin.gif?raw=true"
+      }
+    }
+  }
+}
