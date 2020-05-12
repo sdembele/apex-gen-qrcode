@@ -23,7 +23,7 @@
       "versions": ["5.1.0", "5.1.1", "5.1.2", "5.1.3", "5.1.4", "18.1.0", "18.2.0", "19.1.0", "19.2.0", "20.1.0"],
       "plugin" : {
         "internalName" : "SD_APEX_GEN_QRCODE",
-        "type" : "Dynamic Action",
+        "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=79291:5",
         "previewImage" : "https://github.com/sdembele/apex-gen-qrcode/blob/master/apex_gen_qrcode.gif?raw=true"
       }
